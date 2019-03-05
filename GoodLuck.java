@@ -5,6 +5,7 @@ public class GoodLuck {
 		System.out.println("Gook Luck");
 		System.out.println("Gook Luck2");
 		System.out.println("Gook Luck3");
+		System.out.println("Gook Luck4");
 	}
 	
 }
